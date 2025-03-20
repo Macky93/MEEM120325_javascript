@@ -1,17 +1,16 @@
-*{
+* {
     padding: 0;
     margin: 0;
 }
 
-#banner{
+#banner {
     display: block;
-    visibility: hidden;
     width: 100%;
     height: 250px;
-    background-color: slategray;
-
+    background-color: slategrey;
 }
-#mensajito{
-    /*visibility: hidden;sirve para ocultar el codigo en consola de html*/
-    display: none;  
+
+#mensajito {
+    display: none;
+    /*visibility: hidden;*/
 }
