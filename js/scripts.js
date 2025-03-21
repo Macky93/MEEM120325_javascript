@@ -26,7 +26,7 @@ function calcular(sumando1, sumando2, salida) {
 
 function crearElemento(url = null) {
     if (url === null) {
-        url = "https://as2.ftcdn.net/jpg/01/09/00/83/220_f_109008395_OQDupHMza1V6CNOzrJwWaklaktT4IsRW.jpg";
+        url = "https://cdn.pixabay.com/photo/2021/11/18/14/25/lock-6806514_1280.png";
     }
     
     let objetoimagen = document.createElement("img");
